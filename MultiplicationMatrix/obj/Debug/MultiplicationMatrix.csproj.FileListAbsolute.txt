@@ -1,0 +1,7 @@
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\MultiplicationMatrix.exe.config
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\MultiplicationMatrix.exe
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\MultiplicationMatrix.pdb
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\MultiplicationMatrix.csprojAssemblyReference.cache
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\MultiplicationMatrix.csproj.CoreCompileInputs.cache
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\MultiplicationMatrix.exe
+D:\cSharp\MultiplicationMatrix\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\MultiplicationMatrix.pdb
