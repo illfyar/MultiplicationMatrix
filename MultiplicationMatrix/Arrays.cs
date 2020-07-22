@@ -26,6 +26,11 @@ namespace MultiplicationMatrix
             Array1Full = await FillArray(Matrix1);
             Array2Full = await FillArray(Matrix2);
         }
+        /// <summary>
+        /// Заполняет массивы случайными числами
+        /// </summary>
+        /// <param name="array"></param>
+        /// <returns></returns>
         public async Task<bool> FillArray(int[,] array)
         {
             Random random = new Random();
@@ -42,6 +47,12 @@ namespace MultiplicationMatrix
                 return true;
             });
         }
+        /// <summary>
+        /// Перемножает массивы
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <param name="c"></param>
         public void Multiplication(int[,] a, int[,] b, int[,] c)
         {
             Parallel.Invoke(
